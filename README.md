@@ -4,14 +4,14 @@ este escript en PHP descarga arhivos adjuntos de un correo
 
 ## Comenzando 🚀
 
-es facil de implementar copia reemplaza las variables del server y el correo a descargar
+_es facil de implementar copia reemplaza las variables del server y el correo a descargar
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-esta testiando en php7
+_esta testiando en php7
 
 ```
 Da un ejemplo
