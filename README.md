@@ -1,17 +1,17 @@
-# Título del Proyecto
+# Descargar archivos adjuntos desde email con Imap
 
-_Acá va un párrafo que describa lo que es el proyecto_
+este escript en PHP descarga arhivos adjuntos de un correo
 
 ## Comenzando 🚀
 
-_Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
+es facil de implementar copia reemplaza las variables del server y el correo a descargar
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
 
 ### Pre-requisitos 📋
 
-_Que cosas necesitas para instalar el software y como instalarlas_
+esta testiando en php7
 
 ```
 Da un ejemplo
